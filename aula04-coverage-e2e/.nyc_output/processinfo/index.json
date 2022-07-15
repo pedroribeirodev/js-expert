@@ -1,0 +1,1 @@
+{"processes":{"b1040af0-2af8-4347-85fe-426a62856527":{"parent":null,"children":["e05da7e1-6e22-498d-aa3f-fe7ce64fd21d"]},"e05da7e1-6e22-498d-aa3f-fe7ce64fd21d":{"parent":"b1040af0-2af8-4347-85fe-426a62856527","children":[]}},"files":{"/home/pedroribeiro/Documentos/estudos/js-expert/aula04-coverage-e2e/api.js":["e05da7e1-6e22-498d-aa3f-fe7ce64fd21d"]},"externalIds":{}}

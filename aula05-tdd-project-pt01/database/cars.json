@@ -1,0 +1,23 @@
+[
+  {
+    "id": "823d3e1f-4db5-4e13-8759-f51f04b6b964",
+    "name": "Impala",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "a9a57b37-5c13-4fe9-b507-4f6b7ad10152",
+    "name": "Roadster",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "7144e381-3e80-4bb3-a573-653d88d96d36",
+    "name": "CTS",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  }
+]
